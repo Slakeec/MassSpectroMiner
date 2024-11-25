@@ -2,7 +2,7 @@
 Program for data mining with Flat UI (Mass spectrometry)
 
 
-UI represenatation%
+
 ![Masspectro interface](https://github.com/user-attachments/assets/02414532-188d-4a0f-9f12-c9ce19f72f1a)
 
 MassSpectroMiner
